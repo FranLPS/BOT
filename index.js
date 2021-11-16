@@ -88,4 +88,4 @@ if(cmd){
 
 });
 
-client.login(process.env.TOKEN)
+client.login(process.env.OTA5NzI4OTI4OTU0OTk0Njk4.YZIhFg.LgFG8jsv9ZSf9-IklBeOUW9hm9Q)
